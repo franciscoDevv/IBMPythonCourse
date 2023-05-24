@@ -46,3 +46,6 @@ print(f"Text after -> {text3}")
 
 #Using .find() method
 print(text.find("AI"))
+
+q = "01234567"
+print(q[::2])
