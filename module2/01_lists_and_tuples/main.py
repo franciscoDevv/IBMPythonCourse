@@ -121,3 +121,4 @@ print(newList2)
 
 # You can clone a list using the next
 b = newList[:]
+# If you change NewList, b will not change
